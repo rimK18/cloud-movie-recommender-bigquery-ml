@@ -66,8 +66,6 @@ movie_recommender_project/
 ├── README.md
 └── .gitignore
 
-yaml
-Copier le code
 
 > ⚠️ Credentials (`gcp_credentials.json`, `.env`) are used locally only and are intentionally excluded from version control.
 
